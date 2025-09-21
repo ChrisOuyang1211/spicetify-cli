@@ -16,6 +16,8 @@ Supports Windows, MacOS and Linux.
 
 ### Features
 
+- It's my spicetify（CHrISoy129）
+
 - Change colors whole UI
 - Inject CSS for advanced customization
 - Inject Extensions (Javascript script) to extend functionalities, manipulate UI and control player.
