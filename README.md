@@ -16,6 +16,7 @@ Supports Windows, MacOS and Linux.
 
 ### Features
 
+- My second commit of Github
 - It's my spicetify（CHrISoy129）
 
 - Change colors whole UI
